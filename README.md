@@ -4,7 +4,7 @@
 
 <!-- CI-managed:start — 아래 항목은 itda-skills/hyve 의 GitHub Actions (release.yml) 이 자동으로 갱신합니다. 수동 편집 금지. -->
 
-- **최신 버전**: `v0.1.0-rc1`
+- **최신 버전**: `v0.1.0`
 
 <!-- CI-managed:end -->
 
