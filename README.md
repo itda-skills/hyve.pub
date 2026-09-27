@@ -1,3 +1,8 @@
+> **이 저장소는 더 이상 갱신되지 않습니다(2026-09).** hyve 설치본은 **itda-hyve** 로 바뀌었습니다.
+> - 내려받기: https://github.com/itda-work/itda-hyve.pub/releases/latest (설치 안내: https://github.com/itda-work/itda-hyve.pub#readme)
+> - 스킬팩: https://github.com/itda-work/skills.pub — Claude Desktop(Cowork)에서는 최신 릴리스의 `.plugin` 파일을 **Customize > Plugins** 에서 업로드해 설치합니다.
+> - 소개: https://itda.work/hyve/
+
 # hyve
 
 > **공식 배포 채널** — 스킬.잇다 교육 과정 수강생을 위한 hyve 소프트웨어의 공개 릴리즈 저장소입니다.
